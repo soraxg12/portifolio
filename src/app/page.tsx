@@ -40,7 +40,7 @@ export default function Home() {
               Desenvolvedor full stack e formado em Engenharia da Computação, com experiência em C#, Angular e ReactJS, trilhei um caminho
               na criação de soluções de software.<br />
               Estou em constante evolução, buscando incessantemente me aprimorar como desenvolvedor de software
-              . Cada projeto é uma oportunidade para aprender, crescer e expandir minhas habilidades técnicas e criativas.
+              . Cada projeto é uma oportunidade para aprender, crescer e expandir minhas habilidades técnicas e criativas
               , estou sempre explorando novas tecnologias, metodologias e práticas de desenvolvimento. Minha jornada
               é marcada pela busca pela excelência e pela determinação em alcançar resultados excepcionais em cada linha de código que escrevo.
             </h2>
