@@ -12,8 +12,8 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <main className="p-2 h-full">
-      <div className="flex ">
+    <main className="p-2 h-full sm:flex">
+      <div className="flex flex-col sm:flex-col md:flex-row">
         <div className="flex flex-col items-center justify-around flex-shrink-0">
           <Card>
             <Image src={"/image.jpg"} alt={""} width={300} height={300} style={{ marginBottom: 20 }} />
@@ -50,7 +50,7 @@ export default function Home() {
               <h2 className=" font-bold text-yellow-50 text-2xl mb-4">
                 Tecnologias
               </h2>
-              <div className="flex justify-around mt-1">
+              <div className="flex justify-around mt-1 flex-wrap">
                 <SiDotnet size={50} color="white" />
                 <FaReact size={50} color="white" />
                 <FaNodeJs size={50} color="white" />
